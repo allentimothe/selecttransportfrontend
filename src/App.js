@@ -1,5 +1,6 @@
-import Header1 from "./components/Header/Header1";
+import Header from "./components/Header/Header";
 import Footer from "./components/Footer/Footer";
+import Contact from "./components/Contact/Contact";
 import './App.css';
 
 useEffect(() => {
